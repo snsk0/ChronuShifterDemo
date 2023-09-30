@@ -1,0 +1,18 @@
+{
+    "name": "FSMUtils",
+    "rootNamespace": "FSMUtils",
+    "references": [
+        "GUID:20221fe70a8de414196cdecb4f38269a",
+        "GUID:5616dfe9e868e8d4e8932732f1d70e35",
+        "GUID:eefa7c9ec0e10f549ab23f73f4025c45"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": true
+}
