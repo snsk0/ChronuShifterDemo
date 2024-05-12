@@ -26,7 +26,7 @@
 
 ## コード概要
 以下ファイル内のソースコードがリポジトリオーナーが作成したソースコードです。
-> ChronuShifterDemo/Assets/_Chronus/snsk
+> ChronuShifterDemo/Assets/Chronus/Scripts/snsk)
 > 
 ### ステートマシン
 C#の機能のみを使用した、ピュアなステートマシンを作成し、それを用いてプレイヤーの挙動を制御しています。</br>
