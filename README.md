@@ -37,7 +37,7 @@ C#の機能のみを使用した、ピュアなステートマシンを作成し
 これによって、例えばステートマシンやステートの継承先クラスは完全なピュアC#クラスとして独立しているため、モジュールの細かい分割を可能にました。</br>
 また、クリーンアーキテクチャを意識しているため、**ライブラリやUnityに依存方向が向かないように**設計されています。</br>
 プレイヤーアニメーションについても、あくまで**キャラクターのViewである**と定義したかったため、主にUIの設計で用いられるMV(R)Pパターンを適用してみるなどの工夫も行いました。以下はキャラクターの省略されたクラス図です。</br>
-![Class Diagram]([https://drive.google.com/file/d/1xuWtkP_IZFfYq33ztaD16MOPJXFsLdDI/view?usp=sharing](https://github.com/snsk0/ImageRepository/blob/main/ChronuShifterPlayer.webp)
+![Class Diagram](https://drive.google.com/file/d/1xuWtkP_IZFfYq33ztaD16MOPJXFsLdDI/view?usp=sharing](https://github.com/snsk0/ImageRepository/blob/main/ChronuShifterPlayer.webp)
 ### キャラクターの物理挙動
 本ゲームのキャラクターは、Unityで用いられる物理(RigidBody)だと、ゲーム的に不都合なことが起こる可能性があった(坂を上った際に速度があまり、上に少し跳ねてしまう、等)ため、Unity内のPhysics(RaycastやCapsuleCast)を用いて独自の当たり判定を作成しました。</br>
 このため、キャラクターはよりゲーム的に都合の良い挙動をするようになっています。そのため、キャラクターの操作面においてユーザーが不快感を極力感じない作りになっています。
