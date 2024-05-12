@@ -18,7 +18,7 @@
 ## ライブラリ概要
 [UniRx](https://assetstore.unity.com/packages/tools/integration/unirx-reactive-extensions-for-unity-17276?locale=ja-JP)はUnityのためのReactictive Extensionです。</br>
 [UniTask](https://github.com/Cysharp/UniTask)はUnityに最適化された非同期処理を提供します。</br>
-[DoTween]((https://assetstore.unity.com/packages/tools/animation/dotween-hotween-v2-27676?locale=ja-JP))は主にUiアニメーションにまつわる機能を提供します。</br>
+[DoTween](https://assetstore.unity.com/packages/tools/animation/dotween-hotween-v2-27676?locale=ja-JP)は主にUiアニメーションにまつわる機能を提供します。</br>
 [InputSystem](https://docs.unity3d.com/ja/Packages/com.unity.inputsystem@1.4/manual/index.html)はInputのインタフェースを統合し、デバイスを気にせずInputを取得できる機能を提供します。</br>
 [Cinemachine](https://unity.com/ja/unity/features/editor/art-and-design/cinemachine)は様々なカメラの機能を有するコンポーネントを提供します。</br>
 尚、InputSystemとCinemachineについてはUnity公式より提供されています。</br>
